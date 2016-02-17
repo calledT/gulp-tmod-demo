@@ -1,0 +1,22 @@
+{
+  "name": "gulp-tmod-demo",
+  "version": "1.0.0",
+  "description": "gulp tmod demo",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.11.1",
+    "gulp": "^3.9.1",
+    "gulp-tmod": "^2.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "tomdjs",
+    "demo"
+  ],
+  "author": "calledT",
+  "license": "MIT"
+}
